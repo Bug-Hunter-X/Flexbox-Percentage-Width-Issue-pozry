@@ -1,0 +1,1 @@
+To fix the issue, consider using flex-grow to ensure the items fill the available space: .class1 {flex-grow: 1;} .class2 {flex-grow: 1;}
